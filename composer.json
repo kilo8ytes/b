@@ -6,9 +6,9 @@
     },
     
       "autoload": {
-        "psr-4": {
-            "B\\": "src/"
-        }
+         "files": [
+      "Task6.php"
+        ]
     }
 
 }
