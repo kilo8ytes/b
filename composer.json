@@ -1,0 +1,6 @@
+{
+    "name": "kilo8ytes/b",
+    "require": {
+        "php": ">=7"
+  }
+}
